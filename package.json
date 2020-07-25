@@ -1,0 +1,15 @@
+{
+  "name": "hackernews",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ArthurIvanov/hackernews.git",
+  "author": "Arthur Ivanov <arthur.ivanov.art@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "2.3.0",
+    "graphql-yoga": "^1.18.3"
+  },
+  "devDependencies": {
+    "@prisma/cli": "2.3.0"
+  }
+}
